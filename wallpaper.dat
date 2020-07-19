@@ -1,4 +1,6 @@
 [wallpaper]
-Count=2
-ItemName1=Prismatic.fwp
-ItemName2=Vortex.fwp
+Count=4
+ItemName1=Pattern
+ItemName2=Vortex
+ItemName3=Sky
+ItemName4=River
